@@ -1,8 +1,8 @@
 //Import hav and styling and link to react
 import React from "react";
-import "./nav.css";
+import "./Nav.css";
 //Object with parameters for user input
-const nav = props => {
+const Nav = props => {
 
     const messageClass = () => {
         if (props.message === "Good Choice!") {
@@ -30,4 +30,4 @@ const nav = props => {
 
 }
 
-export default nav;
+export default Nav;
