@@ -5,9 +5,9 @@ import "./Nav.css";
 const Nav = props => {
 
     const messageClass = () => {
-        if (props.message === "Good Choice!") {
+        if (props.message === "You guess correctly!") {
             return "correct";
-        } else if (props.message === "HaHaHa Wrong Choice!") {
+        } else if (props.message === "You guess incorrectly!") {
             return "incorrect";
         }
     }
