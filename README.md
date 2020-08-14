@@ -1,6 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Clicky
+A fun visual memory-test game built with React.
 
-## Available Scripts
+Here is a short video showing the functionality of the app followed by a Live demo:
+
+![](./public/images/narutogifHW.gif)
+
+<a name="Live_Demo"></a>
+## Live Demo
+[Live Demo](https://anotherarod.github.io/Clicky-Game/)
 
 In the project directory, you can run:
 
@@ -66,3 +73,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<a name='License'></a>
+## License
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
+<a name="Badges"></a>
+## Badges
+ [![Generic badge](https://img.shields.io/badge/made_with-React-<COLOR>.svg)](https://shields.io/)
+
+**on github:** <a href='github.com/Anotherarod'>Anotherarod</a>
+
+[![](./public/images/imagemeresize.jpg?size=25)](https://github.com/remarkablemark)
+
+Email: alex.aguirrebena@gmail.com
+imagemeresize.jpg
