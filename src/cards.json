@@ -2,62 +2,62 @@
     {
       "id": 1,
       "name": "naruto1",
-      "image": "../images/naruto1clicky.jpg",
+      "image": "/images/naruto1clicky.jpg",
       "clicked": false
     },
     {
       "id": 2,
       "name": "naruto2",
-      "image": "../images/naruto2clicky.jpeg",
+      "image": "/images/naruto2clicky.jpeg",
       "clicked": false
     },
     {
       "id": 3,
       "name": "naruto3",
-      "image": "../images/naruto3clicky.jpeg",
+      "image": "/images/naruto3clicky.jpeg",
       "clicked": false
     },
     {
       "id": 4,
       "name": "naruto4",
-      "image": "../images/naruto4clicky.jpeg",
+      "image": "/images/naruto4clicky.jpeg",
       "clicked": false
     },
     {
       "id": 5,
       "name": "naruto5",
-      "image": "../images/naruto5clicky.jpg",
+      "image": "/images/naruto5clicky.jpg",
       "clicked": false
     },
  
     {
       "id": 7,
       "name": "naruto7",
-      "image": "../images/naruto7clicky.png",
+      "image": "/images/naruto7clicky.png",
       "clicked": false
     },
     {
       "id": 8,
       "name": "naruto8",
-      "image": "../images/naruto8clicky.png",
+      "image": "/images/naruto8clicky.png",
       "clicked": false
     },
     {
       "id": 9,
       "name": "naruto9",
-      "image": "../images/naruto9clicky.jpg",
+      "image": "/images/naruto9clicky.jpg",
       "clicked": false
     },
     {
       "id": 10,
       "name": "naruto10",
-      "image": "../images/naruto10clicky.jpg",
+      "image": "/images/naruto10clicky.jpg",
       "clicked": false
     },
     {
       "id": 11,
       "name": "naruto11",
-      "image": "../images/naruto11clciky.png",
+      "image": "/images/naruto11clciky.png",
       "clicked": false
     }
   ]

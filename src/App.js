@@ -68,7 +68,7 @@ class App extends Component {
             key={cards.id}
             name={cards.name}
             message={this.state.message}
-            image={cards.image}
+            image={process.env.PUBLIC_URL+cards.image}
             score={this.state.score}
           />
         ))}
