@@ -83,7 +83,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Badges
  [![Generic badge](https://img.shields.io/badge/made_with-React-<COLOR>.svg)](https://shields.io/)
 
-**on github:** <a href='github.com/Anotherarod'>Anotherarod</a>
+**on github:** <a href='https://github.com/Anotherarod'>Anotherarod</a>
 
 [![](./public/images/imagemeresize.jpg?size=25)](https://github.com/remarkablemark)
 
