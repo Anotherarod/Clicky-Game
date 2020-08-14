@@ -88,4 +88,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 [![](./public/images/imagemeresize.jpg?size=25)](https://github.com/remarkablemark)
 
 Email: alex.aguirrebena@gmail.com
-imagemeresize.jpg
